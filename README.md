@@ -5,7 +5,7 @@ Organograma feito para organizar esquipes! Este projeto disponibiliza com que vo
 O projeto ainda tem algumas falhas, mas já serão arrumadas!
 
 É possível acessá-lo através do link abaixo: <br>
-<a href="https://cart-shopping-beta.vercel.app/">Vercel App</a>
+<a href="https://cart-shopping-beta.vercel.app/">Vercel App</a><br/>
 Se diverta 😁
 
 
